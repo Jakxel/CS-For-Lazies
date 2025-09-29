@@ -9,7 +9,7 @@ function Navbar() {
         <li><Link to="/topics-cs">Topics-CS</Link></li>
         <li><Link to="/tech">Tech</Link></li>
         <li><Link to="/others">Others</Link></li>
-        <li><a href="https://github.com/Jakxel">Blog</a></li>
+        <li><a href="https://jakxel-blog.vercel.app/">Blog</a></li>
       </ul>
     </nav>
   );
