@@ -4,7 +4,7 @@ function Sidebar() {
         <>
         <div className="sidebar">
         <img src="./src/assets/Author.png" alt="author-photo" />
-        <h4>Made By Victor jakxel Islas Carreon</h4>
+        <h4>Made By jakxel Islas</h4>
         </div>
         </>
     )
